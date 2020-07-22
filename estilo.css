@@ -1,0 +1,22 @@
+body{
+	background-image: url(imagenes/space.jpg);
+	background-size: 1300px 620px;
+	color: white;
+	font-family: 'Ranchers', cursive;
+}
+h1, h3{
+	line-height: top;
+	text-align: center;
+
+}
+img {
+	margin :auto;
+	border-radius: 50%;
+	display: block;
+	border: white 5px solid;
+	margin-top: 16%;
+}
+div {
+	width: 100%;		
+	height: auto;
+}
